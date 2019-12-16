@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am matiing on github.
+  * I am matii (https://keybase.io/matii) on keybase.
+  * I have a public key ASD-SdT5_Ux3nbYnLUsFiYZmf1bwoH6ASj3P7ncIWqRV0wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fe49d4f9fd4c779db6272d4b058986667f56f0a07e804a3dcfee77085aa455d30a",
+      "host": "keybase.io",
+      "kid": "0120fe49d4f9fd4c779db6272d4b058986667f56f0a07e804a3dcfee77085aa455d30a",
+      "uid": "fe9c5eb0d406fab3d8bb7a2858185219",
+      "username": "matii"
+    },
+    "merkle_root": {
+      "ctime": 1576523849,
+      "hash": "c5a8c758c2708a1cde5648b620b5ab7566caacaddae94066633c36d2929fc189eddc1346816b1bde06c37440975844d1c2ac82b9e3e695007274d5b319993f3e",
+      "hash_meta": "e8e65c91c76293ec152a2a20849d497ddb6fffa6ae7254f275fb452a46f3280f",
+      "seqno": 13661459
+    },
+    "service": {
+      "entropy": "bVKWLZ44i7yB0XKPtkHD86Bb",
+      "name": "github",
+      "username": "matiing"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1576523859,
+  "expire_in": 504576000,
+  "prev": "91b39b5ad1aa1046ca2d374d773bff8299ed4b89d8b7db3488e3689c99bdfa27",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASD-SdT5_Ux3nbYnLUsFiYZmf1bwoH6ASj3P7ncIWqRV0wo](https://keybase.io/matii), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/knU+f1Md522Jy1LBYmGZn9W8KB+gEo9z+53CFqkVdMKp3BheWxvYWTESpcCDcQgkbObWtGqEEbKLTdNdzv/gpntS4nYt9s0iONonJm9+ifEIEXjzMgXUVyn0XmayUAbQWUN07+PoIWKQiAP+oW1y4zWAgHCo3NpZ8RA3ffRdtewTDwKYyLelZh4ncKaUVeoLmISNUUCZPbG8arLMnryTU5yZQ/Cbm4nr3Wg53rDBPsNK3w7xtqSjtYeBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGhQtQfL13EqIvNk8stnvf15+SzmPWckERvcarju5XNXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/matii
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id matii
+```
